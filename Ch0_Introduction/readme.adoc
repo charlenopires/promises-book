@@ -1,12 +1,11 @@
-[[introduction]]
-= はじめに
+[[Introdução]]
+= Primeiro capítulo
 
-== 書籍の目的
+== O propósito do livro
 
-この書籍はJavaScript標準仕様の<<es6-promises,ECMAScript 6 Promises>>という仕様を中心にし、
-JavaScriptにおけるPromiseについて学ぶことを目的とした書籍です。
+Esse livro é sobre a especificação JavaScript padrão es6-promises, ECMAScript 6 Promises. Um livro com o objetivo de ensinar sobre JavaScript Promises.
 
-この書籍を読むことで学べる事として次の3つを目標としています
+A seguir três coisas que você aprenderá nesse livro:
 
 - Promiseについて学び、パターンやテストを扱えるようになる事
 - Promiseの向き不向きについて学び、何でもPromiseで解決するべきではないと知る事
