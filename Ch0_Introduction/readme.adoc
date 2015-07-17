@@ -7,22 +7,22 @@ Esse livro é sobre a especificação JavaScript padrão es6-promises, ECMAScrip
 
 A seguir três coisas que você aprenderá nesse livro:
 
-- Promiseについて学び、パターンやテストを扱えるようになる事
-- Promiseの向き不向きについて学び、何でもPromiseで解決するべきではないと知る事
-- ES6 Promisesを元に基本をよく学び、より発展した形を自分で形成できるようになる事
+- Como aprender Promise e lidar com seus padrões de teste
+- O que não dá pra ser feito com Promises, quando não usar Promises
+- Conceitos básicos sobre ES6 Promises se baseando numa maneira mais desenvolvida.
 
-この書籍では、先程も述べたように<<es6-promises,ES6 Promises>>、
-つまりJavaScriptの標準仕様(ECMAScript)をベースとしたPromiseについて書かれています。
+Neste livro, << Como mencionado anteriormente ES6-promessas, ES6 Promessas >>,
+Em outras palavras, se tem escrito sobre Promise você JavaScript especificação de série do (ECMAScript) com base.
 
-そのため、FirefoxやChromeなどモダンなブラウザでは、ライブラリを使うこと無く利用できる機能であり、
-またES6 Promisesは元が<<promises-aplus,Promises/A+>>というコミュニティベースの仕様であるため、多くの実装ライブラリがあります。
+Portanto, em um navegador moderno como o Firefox ou cromo, é uma função que pode ser usado sem ter de usar a biblioteca,
+O ES6 Promessas porque o original é << promessas-aplus, é uma especificação baseada na comunidade de Promessas / A + >>, há uma série de biblioteca implementação.
 
-ブラウザネイティブの機能、またはライブラリを使うことで今すぐ利用できるPromiseについて基本的なAPIから学んでいきます。
-その中でPromiseの得意/不得意を知り、Promiseを活用したJavaScriptを書けるようになることを目的としています。
+Nativo do navegador de função, ou a promessa de que agora você pode usar usando a biblioteca vamos aprender com a API básica.
+Sabendo o bom / fraco da Promessa no, estamos destinados a ser capaz de escrever o JavaScript que utiliza a Promessa.
 
-== 本書を読むにあたって
+== Ao ler este livro
 
-この書籍ではJavaScriptの基本的な機能について既に学習していることを前提にしています。
+Seguimos a premissa de que você tem que aprender sobre as características básicas do JavaScript neste livro.
 
 - http://www.oreilly.co.jp/books/9784873113913/[JavaScript: The Good Parts]
 - http://www.oreilly.co.jp/books/9784873114880/[JavaScriptパターン]
